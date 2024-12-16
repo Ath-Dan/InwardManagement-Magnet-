@@ -1,1 +1,1 @@
-# InwardManagement-Magnet-
+# appManagement
